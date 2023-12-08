@@ -380,7 +380,7 @@ a:hover {
     .div__apresentacao__texto{
         display: flex;
         flex-direction: column;
-        justify-content: right;
+        justify-content: center;
         align-items: center;
     }
     
