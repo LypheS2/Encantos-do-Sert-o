@@ -334,20 +334,10 @@ a:hover {
 }
 
 @media (max-width: 800px) {
-    
-    * {
-        margin: 0;
-        padding: 0;
-    }
-    .apresentacao__conteudo {
-        display: flex;
+
+    html, body {
         width: 100%;
-        flex-direction: column;
-        gap: 40px;
-        padding: 4% 0% 0% 0%;
-    }
-    .apresentacao__imagem {
-        width: 80%;
-        height: 440px;
+        height: 100%;
+        margin: 0;
     }
 }
