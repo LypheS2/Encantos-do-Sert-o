@@ -341,4 +341,8 @@ a:hover {
         gap: 40px;
         padding: 4% 0% 0% 0%;
     }
+    .apresentacao__imagem {
+        width: 75%;
+        height: 440px;
+    }
 }
