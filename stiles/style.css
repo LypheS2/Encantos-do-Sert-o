@@ -334,5 +334,11 @@ a:hover {
 }
 
 @media (max-width: 1200px) {
-   
+    .apresentacao__conteudo {
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        gap: 40px;
+        padding: 4% 0% 0% 0%;
+    }
 }
