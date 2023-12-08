@@ -382,6 +382,7 @@ a:hover {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        text-align: center;
     }
     
     .apresentacao__conteudo__titulo {
@@ -406,8 +407,7 @@ a:hover {
     .apresentacao__link {
         display: flex;
         width: auto;
-        flex-direction: row;
-        justify-content: space-between;
+        flex-direction: column;
         width: 100%;
         justify-content: center;
     }
