@@ -170,8 +170,8 @@ a:hover {
     top: 0;
     right: 0;
     border: 20px solid transparent;
-    border-top: 20px solid #06d62e;
-    border-right: 20px solid #06d62e;
+    border-top: 20px solid #ae3930;
+    border-right: 20px solid #ae3930;
 }
 
 .icon {
@@ -213,7 +213,7 @@ a:hover {
     padding: 10px;
     border-radius: 2px;
     margin-top: 15px;
-    background-color: #06d62e;
+    background-color: #ae3930;
     color: #354246;
     font-weight: bold;
     cursor: pointer;
@@ -223,7 +223,7 @@ a:hover {
 
 #read_button:hover {
     background-color: transparent;
-    color: #06d62e;
+    color: #ae3930;
     transition: all 0,2s ease-in-out;
 }
 
@@ -232,7 +232,7 @@ a:hover {
     padding: 10px;
     border-radius: 2px;
     margin-top: 15px;
-    background-color: #06d62e;
+    background-color: #ae3930;
     color: #354246;
     font-weight: bold;
     cursor: pointer;
@@ -242,7 +242,7 @@ a:hover {
 
 #read_buttonB:hover {
     background-color: transparent;
-    color: #06d62e;
+    color: #ae3930;
     transition: all 0,2s ease-in-out;
 }
 
@@ -251,7 +251,7 @@ a:hover {
     padding: 10px;
     border-radius: 2px;
     margin-top: 15px;
-    background-color: #06d62e;
+    background-color: #ae3930;
     color: #354246;
     font-weight: bold;
     cursor: pointer;
@@ -261,7 +261,7 @@ a:hover {
 
 #read_buttonC:hover {
     background-color: transparent;
-    color: #06d62e;
+    color: #ae3930;
     transition: all 0,2s ease-in-out;
 }
 
@@ -270,7 +270,7 @@ a:hover {
     padding: 10px;
     border-radius: 2px;
     margin-top: 15px;
-    background-color: #06d62e;
+    background-color: #ae3930;
     color: #354246;
     font-weight: bold;
     cursor: pointer;
@@ -280,7 +280,7 @@ a:hover {
 
 #read_buttonD:hover {
     background-color: transparent;
-    color: #06d62e;
+    color: #ae3930;
     transition: all 0,2s ease-in-out;
 }
 
@@ -473,8 +473,8 @@ a:hover {
         top: 0;
         right: 0;
         border: 20px solid transparent;
-        border-top: 20px solid #06d62e;
-        border-right: 20px solid #06d62e;
+        border-top: 20px solid #ae3930;
+        border-right: 20px solid #ae3930;
     }
     
     .icon {
